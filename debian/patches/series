@@ -1,3 +1,4 @@
+CVE-2026-58015.patch
 CVE-2026-58010.patch
 CVE-2026-58013.patch
 gdbusconnection-Fix-test-signal-subscription-ordering.patch
