@@ -1,3 +1,10 @@
+glib2.0 (CVE-2026-58013+fix1) unstable; urgency=high
+
+  * Fix CVE-2026-58013: backport upstream fix
+    (Closes: CVE-2026-58013)
+
+ -- deepin-ci-robot <packages@deepin.org>  
+
 glib2.0 (2.80.1-1deepin5) unstable; urgency=medium
 
   * CVE-2025-14087: Buffer underflow in GVariant parser
